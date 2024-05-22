@@ -1,1 +1,1 @@
-
+https://github.com/elynord/SoulvibeX-Clang/releases/download/SoulvibeX-Clang-19.0.0git-release/SoulvibeX-Clang-19.0.0git.tar.gz
